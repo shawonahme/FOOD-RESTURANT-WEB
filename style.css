@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 header{
-   background-image: linear-gradient(.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%), url(/assets/hero-bg.png);
+   background-image: linear-gradient(.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%), url(./assets/hero-bg.png);
    background-position: center;
    background-size: cover;
    /* height: 720px; */
@@ -194,7 +194,7 @@ margin: 10px 0px;
     flex-wrap: wrap;
 }
 .div_img{
-    background-image: url("/assets/foods.png");
+    background-image: url("./assets/foods.png");
     width: 672px;
     height: 470px;
     background-position: center;
